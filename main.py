@@ -1,5 +1,7 @@
 from serialsearch import *
 
+print(__name__)
+
 def main():
     # set up local variables to store the list, first, size, and target
     a =[]
